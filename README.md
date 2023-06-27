@@ -15,7 +15,7 @@
 
 Si è realizzata un'applicazione, scritta in linguaggio Java che vede la strutturazione di un'*avventura testuale*.
 
-Il *gioco* prende il nome di : ***The Murder's House*** (La casa dell'assassino), quest'ultimo, infatti tratta l'avventura di un Detective : *Detective Smith*, che sta seguendo il caso di un *serial killer*.
+Il *gioco* prende il nome di : ***The Murder's House*** (La casa dell'assassino), quest'ultimo tratta l'avventura del *Detective Smith*, che sta seguendo il caso di un *serial killer*.
 
 Quest'ultimo ha compiuto una serie di omicidi e l'obbiettivo del gioco è quello di immedesimarsi nei panni del detective che dovrà esplorare l'abitazione dell'assassino al fine di trovarlo e prendere una scelta per le sorti di quest'ultimo.
 
@@ -25,9 +25,9 @@ La trama dell'avventura testuale, infatti rispecchia i principi di una storia di
 
 Si è scelto di rappresentare la mappa di gioco come un *rudere*, nonché abitazione dell'assassino. All'interno del rudere il giocatore avrà la possibilità di muoversi liberamente tra le *stanze* presenti senza dover seguire un percorso preciso.
 
-Infatti, sarà il giocatore a scegliere come orientarsi, esplorando l'ambiente di gioco, offrendo, così, anche una prograssione nella trama.
+Infatti, sarà il giocatore a scegliere come orientarsi, esplorando l'ambiente di gioco, quindi progredendo nella trama.
 
-Come riechiesto dei requisiti fondamentali dell'esame, il gioco è sviluppato in modo tale che il giocatore abbia una continua interazione con l'applicazione.
+Come richiesto dei requisiti fondamentali dell'esame, il gioco è sviluppato in modo tale che il giocatore abbia una continua interazione con l'applicazione.
 
 Tale interazione è garantita dall'inserimento *libero* (ma **guidato**) di una serie di comandi che sono seguiti da una descrizione come risposta al comando stesso.
 
