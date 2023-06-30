@@ -38,7 +38,7 @@ Inoltre, si è data anche la possibilità di interagire con il programma tramite
 Queste prevedono funzionalità come il salvataggio e il caricamento di una partita, la possibilità di utilizzare "*trucchi*" al fine di agevolare il proseguimento di una partita, la gestione della mussica di sottofondo, la visualizzazione della mappa di gioco, e dell'inventario, una finestra "*Wiki*" che racconta brevemente cos'è un'avventura testuale, ed infine un bottone per visualizzare le regole e i suggerimenti per giocare una partita.
 
 ---
-2. Diagramma delle Classi e di Sequenza
+## 2. Diagramma delle Classi e di Sequenza
 
 All'interno della repository si riporta il diagramma delle classi (DiagrammaUMLFunzionamentoParser.pdf) il qualerappresenta la logica dell'analisi testuale di un comando inserito in input da un'utente.
 
