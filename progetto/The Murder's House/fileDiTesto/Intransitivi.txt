@@ -1,0 +1,6 @@
+vai = VAI
+dirigiti = VAI
+muoviti = VAI
+spostati = VAI
+sali = SALI
+scendi = SCENDI

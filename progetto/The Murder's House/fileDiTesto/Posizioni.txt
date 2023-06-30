@@ -1,0 +1,14 @@
+n = NORD
+s = SUD
+e = EST
+w = OVEST
+o = OVEST
+nord = NORD
+sud = SUD
+est = EST
+ovest = OVEST
+su = SU
+giu = GIU
+giù = GIU
+alto = SU
+basso = GIU

@@ -1,0 +1,7 @@
+il = IL
+lo = LO
+la = LA
+l' = L
+le = LE
+i = I
+gli = GLI
